@@ -31,3 +31,24 @@
     transform: rotate(360deg);
   }
 }
+
+.cal-btn {
+    background-color: #f3f3f3;
+    display: inline-block;
+    position: relative;
+    margin:  5px 5px 0 0;
+    width: 32%;
+    height: 40px;
+}
+
+.btn-text {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+}
+
+.cal-container {
+    width: 400px;
+    background-color: #fff;
+}
